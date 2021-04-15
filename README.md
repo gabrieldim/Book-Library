@@ -10,7 +10,8 @@ The module that would be used by a user with a role librarian, who would have se
 3) To modify a certain entry for a book. <br />
 4) To mark a certain book as rented. <br />
  <br />
-### More about the application: <br />
+ 
+###  More about the application: <br />
 1) All books are displayed on the home page (you can see the path: "/" & "/books").  <br />
 2) An Edit, Delete, Mark As Taken button is provided for each book.  <br />
 3) Click the Edit / Delete buttons to call the API and modify / delete the book accordingly.  <br />
