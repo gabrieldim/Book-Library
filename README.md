@@ -1,4 +1,4 @@
-# Book-Library
+### Read more, feed your brain :)
 This app is made using Java Spring Boot for backend and React JS for frontend implementation. <br />
 Appropriate API routes are developed that will be created according to the appropriate requirements that are given, as well as a React application that will be in charge of displaying data and interacting with users. Additionally, in terms of the database, I use PostgreSQL. <br />
 Hook and Pagination are also used in the development of this web application.
