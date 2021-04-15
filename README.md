@@ -10,4 +10,19 @@ The module that would be used by a user with a role librarian, who would have se
 2) Delete books that are no longer in good condition and will not be rented. <br />
 3) To modify a certain entry for a book. <br />
 4) To mark a certain book as rented. <br />
+ <br />
+ <br />
+More about the application: <br />
+ All books are displayed on the home page (you can see the path: "/" & "/books").  <br />
+ An Edit, Delete, Mark As Taken button is provided for each book.  <br />
+ Click the Edit / Delete buttons to call the API and modify / delete the book accordingly.  <br />
+ At the click of the "Mark As Taken" button, you need to make a call to the API and accordingly reduce the number of availableCopies.  <br />
+ Additionally, there is an Add a new book button, which allows you to add a new book.  <br />
+ There is a header section which is actually a navigation menu. <br />
+
+
+
+
+
+
 
